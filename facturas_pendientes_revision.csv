@@ -1,3 +1,3 @@
-registro,proveedor,factura,fecha,importe,estado_revision,motivo_alerta
+﻿registro,proveedor,factura,fecha,importe,estado_revision,motivo_alerta
 1,P001,F101,2026-09-21,1200,Pendiente de validar,"Coinciden proveedor, factura e importe.Comprobar documento contable, posición y vencimiento."
 3,P001,F101,2026-09-21,1200,Pendiente de validar,"Coinciden proveedor, factura e importe.Comprobar documento contable, posición y vencimiento."
