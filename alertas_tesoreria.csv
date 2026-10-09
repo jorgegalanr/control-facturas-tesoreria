@@ -1,4 +1,4 @@
-registro;proveedor;factura;fecha;importe;alerta_coincidencia;alerta_importe;motivo_alerta;estado_revision
+﻿registro;proveedor;factura;fecha;importe;alerta_coincidencia;alerta_importe;motivo_alerta;estado_revision
 1;P001;F101;2026-09-21;1200;True;False;Coincidencia de proveedor, factura e importe. ;Pendiente de validar
 3;P001;F101;2026-09-21;1200;True;False;Coincidencia de proveedor, factura e importe. ;Pendiente de validar
-6;P002;F205;2026-09-25;7800;False;True;Importe superior a tres veces la mediana.;Pendiente de validar
+6;P002;F205;2026-09-25;7800;False;True;Importe superior a tres veces la mediana. ;Pendiente de validar
